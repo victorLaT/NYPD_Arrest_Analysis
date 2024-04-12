@@ -7,3 +7,5 @@ NYCOpen data is an open source data hub that has info that particularly deals wi
 
 This data was retrieved from NYC Open data. It lists all the arrests 2006-2023.
 ![image](https://github.com/victorLaT/NYPD_Arrest_Analysis/assets/165083976/6fa91ccf-d8e7-440f-b111-9fa34ce4f18c)
+
+https://public.tableau.com/app/profile/victor.la.torre/viz/NYPDFInal/NYPDDashboard?publish=yes
